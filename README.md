@@ -1,4 +1,4 @@
-# Tree of Savior Lua Mods
+# Tree of Savior Lua Mods [![Addon Safe](https://cdn.rawgit.com/lubien/awesome-tos/master/badges/addon-safe.svg)](https://github.com/lubien/awesome-tos#addons-badges)
 
 ### Features
 
